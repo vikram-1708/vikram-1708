@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vikram Bishnoi</h1>
-<h3 align="center">I am an curious software engineer from India with 3+ years of work experience in building scalable system.</h3>
+<h3 align="center">I am a curious software engineer from India with 3+ years of work experience in building scalable system.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikram-1708&label=Profile%20views&color=0e75b6&style=flat" alt="vikram-1708" /> </p>
 
-- I'm currently working **@Meesho**
+- 💼 I'm currently working as SDE-2 **@Meesho**
 
 - 🌱 I’m currently learning **GO language**
 
